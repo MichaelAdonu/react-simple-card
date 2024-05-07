@@ -13,7 +13,7 @@ const Title = (props) => {
         border: "1px solid gray",
         borderRadius: "5px",
         padding: "10px",
-        boxShadow: "10px 10px 3px 3px rgba(0, 0, 0, 0.4)",
+        boxShadow: "10px 10px 1px 1px rgba(0, 0, 0, 0.4)",
       }}
     >
       {props.title}

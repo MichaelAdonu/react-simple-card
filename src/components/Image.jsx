@@ -7,6 +7,7 @@ const Image = (props) => {
         style={{
           border: "2px solid gray",
           borderRadius: "5px",
+          height: "40vh",
         }}
         src={props.url}
         alt=""
