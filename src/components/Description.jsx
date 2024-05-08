@@ -8,7 +8,7 @@ export default class Description extends Component {
           fontFamily: "Quicksand",
           fontSize: "20px",
           padding: "10px",
-          marginTop: "40px",
+          marginTop: "20px",
         }}
       >
         {this.props.description}
